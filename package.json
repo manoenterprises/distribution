@@ -27,9 +27,7 @@
     "react-dom": "^18.2.0",
     "style-loader": "^3.3.1",
     "tailwindcss": "^3.2.7",
-    "webpack-cli": "^5.0.1",
-    "webpack-dev-middleware": "^6.0.1",
-    "webpack-hot-middleware": "^2.25.3"
+    "webpack-cli": "^5.0.1"
   },
   "dependencies": {
     "bcrypt": "^5.1.0",
@@ -41,6 +39,8 @@
     "moment": "^2.29.4",
     "mongodb": "^5.0.1",
     "mongoose": "^6.9.2",
-    "webpack": "^5.75.0"
+    "webpack": "^5.75.0",
+    "webpack-dev-middleware": "^6.0.1",
+    "webpack-hot-middleware": "^2.25.3"
   }
 }
