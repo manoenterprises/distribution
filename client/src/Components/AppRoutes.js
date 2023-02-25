@@ -12,7 +12,7 @@ import BillForm from "./Authorized/Billing/Billing";
 const routes = [
   {
     path: "/",
-    component: Home,
+    component: Login,
     exact: true,
   },
   {
